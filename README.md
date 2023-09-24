@@ -36,7 +36,4 @@ This repository contains SQL queries for analyzing COVID-19 data, specifically f
 You can execute these SQL queries on your database containing COVID-19 data to gain valuable insights into the pandemic's impact on different regions. Adjust the queries as needed to suit your specific dataset and requirements.
 
 ## Contributors
-- [Your Name]
-
-## License
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
+- [Chibuike Victor Akujuobi]
