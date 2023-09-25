@@ -35,5 +35,13 @@ This repository contains SQL queries for analyzing COVID-19 data, specifically f
 ## Usage
 You can execute these SQL queries on your database containing COVID-19 data to gain valuable insights into the pandemic's impact on different regions. Adjust the queries as needed to suit your specific dataset and requirements.
 
+## Tableau Dashboard
+
+For a visual representation of the COVID-19 data analysis, you can explore the interactive Tableau dashboard created for this project. The dashboard provides a user-friendly interface to explore the data and gain insights visually.
+
+[Explore Tableau Dashboard](https://public.tableau.com/views/MyDashboardonCOVID-19data/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+Feel free to interact with the dashboard to visualize the data and gain a deeper understanding of the pandemic's impact.
+
 ## Contributors
 - [Chibuike Victor Akujuobi]
